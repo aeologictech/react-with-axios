@@ -1,0 +1,27 @@
+{
+  "name": "react-with-axios",
+  "version": "1.0.0",
+  "description": "Integrate REST APIs In React With Axios",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsblend/react-with-axios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsblend/react-with-axios/issues"
+  },
+  "homepage": "https://github.com/jsblend/react-with-axios#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2"
+  }
+}
